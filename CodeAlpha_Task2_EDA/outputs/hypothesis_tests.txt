@@ -1,0 +1,13 @@
+TEST 1: Discount and Profit
+H0: There is no linear correlation.
+H1: There is a linear correlation.
+Pearson correlation: -0.2189
+P-value: 0.000000
+Decision: Reject the null hypothesis.
+
+TEST 2: Average profit across categories
+H0: All category mean profits are equal.
+H1: At least one category mean differs.
+F-statistic: 55.1895
+P-value: 0.000000
+Decision: Reject the null hypothesis.

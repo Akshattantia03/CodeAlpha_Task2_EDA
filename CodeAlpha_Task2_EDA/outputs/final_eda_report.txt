@@ -1,0 +1,27 @@
+CODEALPHA TASK 2: EXPLORATORY DATA ANALYSIS
+================================================
+
+Total rows: 10194
+Total columns: 21
+Duplicate rows: 0
+Missing cells: 0
+
+Total sales: 2,326,534.35
+Total profit: 292,296.81
+
+CATEGORY PERFORMANCE
+                 Total_Sales  Total_Profit
+Category                                  
+furniture        754747.7613    19729.9956
+office supplies  731893.3140   126023.4434
+technology       839893.2790   146543.3756
+
+REGIONAL PERFORMANCE
+         Total_Sales  Total_Profit
+Region                            
+Central  503170.6728    39865.3070
+East     691828.1680    94883.2603
+South    391721.9050    46749.4303
+West     739813.6085   110798.8170
+
+See the outputs folder for detailed statistics, charts, and hypothesis tests.

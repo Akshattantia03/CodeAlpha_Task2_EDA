@@ -1,0 +1,22 @@
+,Missing Values,Missing Percentage,Data Type
+Row ID,0,0.0,int64
+Order ID,0,0.0,str
+Order Date,0,0.0,datetime64[us]
+Ship Date,0,0.0,datetime64[us]
+Ship Mode,0,0.0,str
+Customer ID,0,0.0,str
+Customer Name,0,0.0,str
+Segment,0,0.0,str
+Country/Region,0,0.0,str
+City,0,0.0,str
+State/Province,0,0.0,str
+Postal Code,0,0.0,str
+Region,0,0.0,str
+Product ID,0,0.0,str
+Category,0,0.0,str
+Sub-Category,0,0.0,str
+Product Name,0,0.0,str
+Sales,0,0.0,float64
+Quantity,0,0.0,int64
+Discount,0,0.0,float64
+Profit,0,0.0,float64
